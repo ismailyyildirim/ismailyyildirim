@@ -1,6 +1,6 @@
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
+<img align="right" alt="avatar" width="200" src="avatar2"> 
 
-## Beyaz Takkeli Tornaci 👋  İsmail YILDIRIM
+## Cyber Security - Pentester 👋  İsmail YILDIRIM
  ![](https://img.shields.io/badge/Cyber%20Security-Consultant%20%2F%20Trainer%20%2F%20Engineer%20%2F%20Architect-blue)
  <!--
  ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
