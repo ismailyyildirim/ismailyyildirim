@@ -10,7 +10,7 @@
 
 <table class="center">
 <tr> 
-          ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
+         
  </tr>
 <tr>
   <td><a href="https://youtube.com/">
